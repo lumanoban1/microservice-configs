@@ -1,6 +1,6 @@
 db:
-  username: admin
+  username: usr_ana
   maximum-pool-size: 5
   connection-timeout: 20000
-  url: jdbc:sqlserver://db-qoridev.ctkeim682b5x.sa-east-1.rds.amazonaws.com:1433
-  password:  qoridev24$
+  url: jdbc:sqlserver://20.122.144.190:1433
+  password:  pwd_ana
