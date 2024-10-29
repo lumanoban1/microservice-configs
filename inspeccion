@@ -1,0 +1,6 @@
+db:
+  username: usr_ana
+  maximum-pool-size: 5
+  connection-timeout: 20000
+  url: jdbc:sqlserver://20.122.144.190:1433
+  password:  pwd_ana
